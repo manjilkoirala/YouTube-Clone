@@ -31,7 +31,10 @@ That's it! You can now explore the project and see the static homepage in action
 
 ## Screenshot
 
-<img src="" alt="app screenshot" style="border: 2px solid  gray;">
+![image](https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/f42e5e6f-824c-4cfc-9d31-96e0ffff1916)
+![image](https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/ba764c33-678b-423a-a68e-31a538f03743)
+
+
 
 ## Contributing
 
