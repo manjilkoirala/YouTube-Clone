@@ -1,6 +1,6 @@
-# YouTube Clone - Static YouTube Homepage
+# YouTube Clone - YouTube Homepage and Video Page
 
-🎥 This is a static YouTube homepage replica created using pure HTML and CSS. It mimics the look and feel of the YouTube homepage, showcasing the layout and design without any dynamic functionality.
+🎥 This is a static YouTube homepage and videopage replica created using pure HTML, CSS and JavaScript. It mimics the look and feel of the YouTube homepage and videopage, showcasing the layout and design with some dynamic functionality.
 
 ## Table of Contents
 
