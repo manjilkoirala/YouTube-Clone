@@ -31,7 +31,7 @@ That's it! You can now explore the project and see the static homepage in action
 
 ## Screenshots
 <h4>Channel Page</h2>
-![image](https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/2e2514ce-7732-47da-b01b-996b1b9bf806) <br>
+
 <h4>Channel Page with Video</h2>
 ![image](https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/a7d0dad0-a5e8-4878-92a0-cdc7d382be04)
 
