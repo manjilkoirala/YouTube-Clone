@@ -209,6 +209,35 @@ nav{
     font-size: 16px;
 }
 
+.channel-container .btn{
+    
+    margin-left: 80px;
+    margin-right: 80px;
+    cursor: pointer;
+    color: #5a5a5a;
+    font-weight: 500;
+}
+.channel-container .search-icon{
+    width: 18px;
+    margin-right: 45px;
+}
+.channel-container .btn p{
+    margin-right: 45px;
+
+}
+.channel-container .btn p:hover{
+    color: black
+}
+
+.channel-container .btn .active{
+    color: black;
+    border-bottom: 1px solid black;
+    
+   left: 0;
+   
+}
+
+
 .list-container{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
@@ -292,6 +321,16 @@ border-radius: 5px;
     margin-left:0 ;
     margin-right: 0;
    }
-   
+   .channel-container .btn{
+    
+    margin-left: 0;
+    margin-right: 0;
+
+
+}
+
+.channel-container .hide{
+    display: none;
+}
 
 }
