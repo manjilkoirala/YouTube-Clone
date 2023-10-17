@@ -8,6 +8,7 @@
 html , body{
     height: 100%;
     width: 100%;
+    
 }
 a{
     text-decoration: none;
@@ -27,9 +28,11 @@ nav{
     justify-content: space-between;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     background: #fff;
-    position: sticky;
+    position: fixed;
+    width: 100%;
     top: 0;
     z-index: 10;
+    
 }
 .nav-right img{
     width: 25px;
@@ -160,12 +163,14 @@ nav{
 
 .container{
     background: #f9f9f9f9;
-    padding:20px 2% 20px 17% ;
+    padding:60px 2% 20px 17% ;
    
 }
 
 .large-container{
     padding-left:7% ;
+    padding-right: 2%;
+
 }
 
 .banner{
@@ -178,6 +183,8 @@ nav{
 }
 .channel-container{
     border-bottom:1px solid rgb(198, 196, 196) ;
+    
+    
 }
 .channel{
     justify-content: space-between;
@@ -218,15 +225,14 @@ nav{
     cursor: pointer;
     color: #5a5a5a;
     font-weight: 500;
+    justify-content: space-evenly;
+    
 }
 .channel-container .search-icon{
     width: 18px;
     margin-right: 45px;
 }
-.channel-container .btn p{
-    margin-right: 45px;
 
-}
 .channel-container .btn p:hover{
     color: black
 }
@@ -293,9 +299,10 @@ border-radius: 5px;
     .menu-icon{
         display: none;
     }
-    .sidebar{
+    .sidebar, .small-sidebar{
         display: none;
     }
+    
 
     .container, .large-container{
         padding-left: 5%;
@@ -331,12 +338,13 @@ border-radius: 5px;
     margin-right: 0;
    }
    .channel-container .btn{
+    margin: 0;
     
-    margin-left: 0;
-    margin-right: 0;
+   justify-content: space-between;
 
 
 }
+
 
 .channel-container .hide{
     display: none;
