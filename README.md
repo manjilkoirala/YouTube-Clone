@@ -30,11 +30,20 @@ To view this project locally, simply follow these steps:
 That's it! You can now explore the project and see the static homepage in action. 🚀
 
 ## Screenshots
-<h4>Channel Page</h2>
+
+<h4>Index Page</h4>
+<img src=""></img>
+<h4>Channel Page</h4>
 <img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/2e2514ce-7732-47da-b01b-996b1b9bf806"></img>
 
-<h4>Channel Page with Video</h2>
+<h5>Channel Page with Video</h5>
 <img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/a7d0dad0-a5e8-4878-92a0-cdc7d382be04"></img>
+
+<h4>Video Page</h4>
+<img src=""></img>
+
+<h4>Responsive<h4>
+<img src=""></img>
 
 
 
