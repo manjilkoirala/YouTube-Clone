@@ -32,7 +32,7 @@ That's it! You can now explore the project and see the static homepage in action
 ## Screenshots
 
 <h4>Index Page</h4>
-<img src=""></img>
+<img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/202b4cca-abe2-4a18-aa0c-da0469cccd1b"></img>
 <h4>Channel Page</h4>
 <img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/2e2514ce-7732-47da-b01b-996b1b9bf806"></img>
 
@@ -40,7 +40,10 @@ That's it! You can now explore the project and see the static homepage in action
 <img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/a7d0dad0-a5e8-4878-92a0-cdc7d382be04"></img>
 
 <h4>Video Page</h4>
-<img src=""></img>
+<img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/defaf680-cd54-4b5f-8281-db4cb6316bcb"></img>
+
+<h4>Comment Section</h4>
+<img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/503dfd1e-5f3a-45e6-bcaf-2b730ca38479"></img>
 
 <h4>Responsive<h4>
 <img src=""></img>
