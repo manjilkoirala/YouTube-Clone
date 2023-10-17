@@ -285,6 +285,66 @@ border-radius: 5px;
     color: #5a5a5a;
 }
 
+
+/* ----------------device screen fix for index and channel page-------------------- */
+
+@media (max-width: 900px){
+
+    .menu-icon{
+        display: none;
+    }
+    .sidebar{
+        display: none;
+    }
+
+    .container, .large-container{
+        padding-left: 5%;
+        padding-right:5% ;
+    }
+
+    .nav-right img{
+        display: none;
+    }
+
+    .nav-right .user-icon{
+        display: block;
+        width: 30px;
+    }
+    .nav-middle .search-box input{
+        width:100px ;
+    }
+    .nav-middle .mic-icon{
+        display: block;
+    }
+    .nav-left .logo{
+    width:100px ;
+   } 
+   .channel-container img{
+    display: none;
+   }
+   .channel{
+    margin-left:0 ;
+    margin-right: 0;
+   }
+   .list-container{
+    margin-left:0 ;
+    margin-right: 0;
+   }
+   .channel-container .btn{
+    
+    margin-left: 0;
+    margin-right: 0;
+
+
+}
+
+.channel-container .hide{
+    display: none;
+}
+
+
+}
+
 /* --------------------play video page--------------------- */
 .play-container{
     padding-left: 2%;
@@ -482,61 +542,25 @@ margin-bottom: 2px;
     cursor: pointer;
 }
 
-
-/* ----------------device screen fix-------------------- */
-
-@media (max-width: 900px){
-
-    .menu-icon{
-        display: none;
+@media (max-width:900px) {
+    .play-video{
+        flex-basis: 100%;
     }
-    .sidebar{
-        display: none;
+    .right-sidebar{
+        flex-basis: 100%;
     }
-
-    .container, .large-container{
+    .play-container{
         padding-left: 5%;
-        padding-right:5% ;
     }
+    .description{
+        padding-left: 0;
 
-    .nav-right img{
-        display: none;
     }
-
-    .nav-right .user-icon{
-        display: block;
-        width: 30px;
-    }
-    .nav-middle .search-box input{
-        width:100px ;
-    }
-    .nav-middle .mic-icon{
-        display: block;
-    }
-    .nav-left .logo{
-    width:100px ;
-   } 
-   .channel-container img{
-    display: none;
-   }
-   .channel{
-    margin-left:0 ;
-    margin-right: 0;
-   }
-   .list-container{
-    margin-left:0 ;
-    margin-right: 0;
-   }
-   .channel-container .btn{
-    
-    margin-left: 0;
-    margin-right: 0;
-
-
-}
-
-.channel-container .hide{
-    display: none;
-}
+    .play-video .play-video-info a{
+        margin-left: 0;
+        margin-right: 15px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+     }
 
 }
