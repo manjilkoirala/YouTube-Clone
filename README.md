@@ -46,7 +46,9 @@ That's it! You can now explore the project and see the static homepage in action
 <img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/503dfd1e-5f3a-45e6-bcaf-2b730ca38479"></img>
 
 <h4>Responsive<h4>
-<img src=""></img>
+<img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/35c23bf6-742f-4071-bc15-fbb3a374259c"></img>
+<img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/bc474c72-ac8d-4d7d-a882-b62229dd4375"></img>
+<img src="https://github.com/manjilkoirala/YouTube-Clone/assets/85267300/a3dc16da-f646-4384-8097-a6d72944de5b"></img>
 
 
 
