@@ -90,6 +90,9 @@ nav{
     padding-top: 80px;
     
 }
+.sidebar a{
+    color: #0f0f0f;
+}
 
 .shortcut-links a img{
     width: 20px;
@@ -103,7 +106,7 @@ nav{
     width: fit-content;
     flex-wrap: wrap;
     text-decoration: none;
-    color: #0f0f0f;
+    
     
     
 }
